@@ -29,7 +29,7 @@ This is a clean and responsive **Portfolio Website** built using **HTML, CSS, an
 
 | Homepage | Projects Section |
 |----------|------------------|
-| ![Home](./assets/screenshots/Screenshot-79.png) | ![Projects](./assets/screenshots/Screenshot-80.png) |
+| ![Home](./assets/Screenshot-79.png) | ![Projects](./assets/Screenshot-80.png) |
 
 ---
 
