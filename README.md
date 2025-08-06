@@ -2,7 +2,7 @@
 
 This is a clean and responsive **Portfolio Website** built using **HTML, CSS, and JavaScript**. It showcases my skills, projects, education, and contact information in a professional layout.  
 
-> ✅ Live Demo: [Your Portfolio](https://portfolio-website-darshan.netlify.app/)
+> ✅ Live Demo: (https://portfolio-website-darshan.netlify.app/)
 
 ---
 
