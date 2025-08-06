@@ -23,13 +23,20 @@ This is a clean and responsive **Portfolio Website** built using **HTML, CSS, an
 
 ## 📷 Screenshots
 
-| Homepage | Projects Section |
-|---------|------------------|
 ## 📷 Screenshots
 
-| Homepage | Projects Section |
-|----------|------------------|
-| ![Home](./assets/Screenshot(79).png) | ![About](./assets/Screenshot(80).png) |  ![Projects](./assets/Screenshot(81).png)
+### 🏠 Homepage & About Section
+
+| Homepage | About Section |
+|----------|---------------|
+| ![Home](./assets/Screenshot-79.png) | ![About](./assets/Screenshot-80.png) |
+
+### 💼 Projects Section
+
+| Projects Section |
+|------------------|
+| ![Projects](./assets/Screenshot-81.png) |
+
 
 ---
 
